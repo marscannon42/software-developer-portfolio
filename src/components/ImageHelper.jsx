@@ -26,6 +26,7 @@ import tetris from "./images/project_images/tetris_screenshot.png";
 import tictactoe from "./images/project_images/tic_tac_toe_screenshot.png";
 import tv from "./images/project_images/tv_guide_screenshot.png";
 // import octodex from "./images/project_images/octodex_2025_screenshot.png";
+import snake_game from "./images/project_images/snake_game_screenshot.png"
 
 const images = {
   azure_devops,
@@ -52,6 +53,7 @@ const images = {
   tictactoe,
   tetris,
   catsearch,
+  snake_game
 };
 
 export default images;

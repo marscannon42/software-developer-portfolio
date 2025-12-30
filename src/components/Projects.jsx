@@ -359,13 +359,13 @@ class Projects extends Component {
               <div className="card-image waves-effect waves-block waves-light">
                 <img
                   className="activator"
-                  src={images.tictactoe}
-                  alt="tic-tac-toe project"
+                  src={images.snake_game}
+                  alt="snake game project"
                 />
               </div>
               <div className="card-content">
                 <div className="card-title activator">
-                  Minimalist TicTacToe
+                  Snake Game
                   <i
                     className="material-icons right"
                     arial-label="more options"
@@ -376,14 +376,14 @@ class Projects extends Component {
               </div>
 
               <div className="card-action">
-                {/* <a
-                  href="https://minimalist-tic-tac-toe-mallorysmith64.netlify.com/"
+                <a
+                  href="https://marssmith64.itch.io/snake-game-python"
                   className="waves-effect waves-light btn"
                 >
                   Live
-                </a> */}
+                </a>
                 <a
-                  href="https://github.com/mallorysmith64/minimalist-tic-tac-toe"
+                  href="https://github.com/mallorysmith64/snake-game-python"
                   className="waves-effect waves-light btn"
                 >
                   Source
@@ -392,17 +392,17 @@ class Projects extends Component {
 
               <div className="card-reveal">
                 <strong className="card-title grey-text text-darken-4">
-                  Minimalist TicTacToe
+                  Snake Game
                   <i className="material-icons right" arial-label="close">
                     close
                   </i>
                 </strong>
                 <article className="card-description">
                   <strong>Overview:</strong>
-                  <p>Create a sleek design for a great game</p>
+                  <p>Built a classic fun game</p>
 
                   <strong>Technologies Used:</strong>
-                  <p>React.js, Netlify, CSS Flexbox, HTML5</p>
+                  <p>Python, pygame</p>
                 </article>
               </div>
             </div>

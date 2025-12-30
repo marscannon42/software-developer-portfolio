@@ -15,12 +15,12 @@ class Projects extends Component {
                 <img
                   className="activator"
                   src={images.catsearch}
-                  alt="coming soon"
+                  alt="reddit project"
                 />
               </div>
               <div className="card-content">
                 <div className="card-title activator">
-                  Cat Search Engine
+                  Cat Search
                   <i
                     className="material-icons right"
                     arial-label="more options"
@@ -31,38 +31,31 @@ class Projects extends Component {
               </div>
 
               <div className="card-action">
-                {/* <a
-                  href=""
-                  className="waves-effect waves-light btn"
-                >
-                  Live
-                </a> */}
                 <a
-                  href="https://github.com/mallorysmith64/google-search"
+                  href="https://github.com/mallorysmith64/Reddit-Capstone"
                   className="waves-effect waves-light btn"
                 >
                   Source
                 </a>
               </div>
 
-              <div className="card-action"></div>
               <div className="card-reveal">
                 <strong className="card-title grey-text text-darken-4">
-                  Cat Search Engine
+                  Cat Search
                   <i className="material-icons right" arial-label="close">
                     close
                   </i>
                 </strong>
-                 <article className="card-description">
+                <article className="card-description">
                   <strong>Overview:</strong>
-                <p>Built a niche search engine to lookup cat information</p>
-                <strong>Features Included:</strong>
-                <p>
-                  Users can search for facts about cats and peruse recent cat
-                  memes
-                </p>
-                <strong>Technologies Used:</strong>
-                <p>React.js, Javascript, Flask, Python, Elasticsearch, CSS Flexbox, HTML5</p>
+                  <p>
+                    You can search for cat memes and cat information.
+                  </p>
+            
+                  <strong>Technologies Used:</strong>
+                  <p>
+                    React.js, JavaScript, Flask, Python, ElasticSearch, CSS Flexbox, HTML5
+                  </p>
                 </article>
               </div>
             </div>

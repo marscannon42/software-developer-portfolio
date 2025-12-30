@@ -17,7 +17,7 @@ import vscode from "./images/skill_images/vscode.svg";
 
 // all project images
 // import loading from "./images/project_images/loading_screenshot.png";
-import catsearch from "./images/project_images/cat_search_screenshot.jpeg";
+import catsearch from "./images/project_images/cat_search_screenshot.png";
 import minesweeper from "./images/project_images/minesweeper_screenshot.png";
 import octodex from "./images/project_images/octodex_screenshot.png";
 import reddit from "./images/project_images/reddit_capstone_screenshot.png";

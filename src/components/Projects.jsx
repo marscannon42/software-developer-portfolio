@@ -126,7 +126,7 @@ class Projects extends Component {
             </div>
           </div>
 
-          <div className="row">
+          {/* <div className="row">
             <div className="card sticky-action">
               <div className="card-image waves-effect waves-block waves-light">
                 <img
@@ -177,7 +177,7 @@ class Projects extends Component {
                 </article>
               </div>
             </div>
-          </div>
+          </div> */}
 
           <div className="row">
             <div className="card sticky-action">
